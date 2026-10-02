@@ -42,7 +42,7 @@
                     <span class="meta-separator">·</span>
                     <span class="article-updated">
                         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 4v6h6"/><path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"/></svg>
-                        {{ if eq $lang "en" }}Updated on {{ .Lastmod.Format "2 January 2006" }}{{ else }}Mis à jour le {{ .Lastmod.Format "2 January 2006" }}{{ end }}
+                        {{ if eq $lang "en" }}Updated on {{ .Lastmod.Format "2 January 2006" }}{{ else }}Mis à jour le {{ partial "date-long.html" (dict "d" .Lastmod "lang" "fr") }}{{ end }}
                     </span>
                 </div>
 

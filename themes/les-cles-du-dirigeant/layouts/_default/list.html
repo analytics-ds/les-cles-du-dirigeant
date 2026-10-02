@@ -44,7 +44,7 @@
                         {{ if $catURL }}
                         <a href="{{ $catURL }}" class="article-category">{{ index $article.Params.categories 0 }}</a>
                         {{ end }}
-                        <time>{{ .Date.Format "2 January 2006" }}</time>
+                        <time>{{ partial "date-long.html" (dict "d" .Date "lang" $lang) }}</time>
                         {{ if .Params.readingTime }}
                         <span class="reading-time">{{ .ReadingTime }} min</span>
                         {{ end }}

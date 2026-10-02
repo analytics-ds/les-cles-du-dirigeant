@@ -91,7 +91,7 @@
                         {{ if $catURL }}
                         <a href="{{ $catURL }}" class="article-category"><span class="category-dot" style="background-color: var(--accent);"></span>{{ index $article.Params.categories 0 }}</a>
                         {{ end }}
-                        <time>{{ $article.Date.Format "2 January 2006" }}</time>
+                        <time>{{ partial "date-long.html" (dict "d" $article.Date "lang" $lang) }}</time>
                     </div>
                     <h3><a href="{{ $article.RelPermalink }}">{{ $article.Title }}</a></h3>
                     <p>{{ .Description }}</p>

@@ -1,0 +1,10 @@
+{{- /* Date longue localisee. Hugo sort les mois en anglais avec .Format, quelle que soit la langue
+       de la page : on traduit donc le mois a la main en FR. Appel :
+       partial "date-long.html" (dict "d" .Date "lang" $lang) */ -}}
+{{- $d := .d -}}
+{{- if eq .lang "en" -}}
+{{ $d.Format "2 January 2006" }}
+{{- else -}}
+{{- $mois := slice "janvier" "février" "mars" "avril" "mai" "juin" "juillet" "août" "septembre" "octobre" "novembre" "décembre" -}}
+{{ $d.Day }}{{ if eq $d.Day 1 }}er{{ end }} {{ index $mois (sub (int $d.Month) 1) }} {{ $d.Year }}
+{{- end -}}
