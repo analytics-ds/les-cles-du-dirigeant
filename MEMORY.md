@@ -2,6 +2,15 @@
 
 Trace tous les articles publiés, classés par semaine. Limite : 4 articles/semaine/blog. Mis à jour automatiquement par `/create-article-geo`.
 
+## Semaine 40 (28/09/2026 - 04/10/2026)
+
+Premier lot du run GEO In Extenso, validé par In Extenso le 30/09 (sauf les 3 duels In Extenso vs Cerfrance, Dougs, Pennylane, refusés, à ne jamais publier). Quota 4/4 atteint.
+
+- 2026-10-02 | Meilleur accompagnement pour créer son entreprise en France / Best support to start a business in France (FR+EN) | Créer son entreprise
+- 2026-10-02 | Meilleur accompagnement pour passer à la facture électronique / Best support to switch to e-invoicing in France (FR+EN) | Comptabilité
+- 2026-10-02 | Meilleur cabinet comptable en France selon votre profil / Best accounting firm in France for your business profile (FR+EN) | Expert-comptable et métiers
+- 2026-10-02 | Meilleur prestataire pour la paie d'une PME en 2026 / Best payroll provider for an SME in France in 2026 (FR+EN) | Paie et social
+
 ## 2026-09-21 — La source est sur GitHub, le depot a deux branches
 
 Jusqu'au 2026-09-21, le depot `analytics-ds/les-cles-du-dirigeant` ne contenait que le site construit,

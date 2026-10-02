@@ -80,13 +80,14 @@
   - immatriculation
   - lancement
   - projet
-  alt_fr: Document imprime presentant un schema circulaire des etapes de creation d'une entreprise
+  alt_fr: Document imprimé présentant un schéma circulaire des étapes de création d'une entreprise
   alt_en: Printed document showing a circular diagram of the stages of setting up a business
   alt_source_en: High-angle view of a document showing business stages with eyeglasses on a desk.
   credit: Photo de RDNE Stock project sur Pexels
   source_url: https://www.pexels.com/photo/blue-and-white-book-on-brown-wooden-table-7947653/
   added: '2026-09-18'
-  used_by: []
+  used_by:
+  - meilleur-accompagnement-creation-entreprise
 - id: pexels:15635242
   file: creer-son-entreprise-05.webp
   path: /images/banque/creer-son-entreprise-05.webp
@@ -466,7 +467,8 @@
   credit: Photo de RDNE Stock project sur Pexels
   source_url: https://www.pexels.com/photo/person-using-black-and-gray-laptop-7947999/
   added: '2026-09-18'
-  used_by: []
+  used_by:
+  - meilleur-accompagnement-facture-electronique
 - id: unsplash:mKYf6jV-rYo
   file: comptabilite-04.webp
   path: /images/banque/comptabilite-04.webp
@@ -829,7 +831,8 @@
   credit: Photo de Mikhail Nilov sur Pexels
   source_url: https://www.pexels.com/photo/person-in-long-sleeve-shirt-holding-a-calculator-8297031/
   added: '2026-09-18'
-  used_by: []
+  used_by:
+  - meilleur-prestataire-paie-pme
 - id: unsplash:dQyS2pMYtok
   file: gerer-son-entreprise-01.webp
   path: /images/banque/gerer-son-entreprise-01.webp
@@ -1206,7 +1209,8 @@
   credit: Photo de Antoni Shkraba sur Pexels
   source_url: https://www.pexels.com/photo/businessman-talking-with-client-7144256/
   added: '2026-09-18'
-  used_by: []
+  used_by:
+  - meilleur-cabinet-comptable
 - id: pexels:6170862
   file: expert-comptable-et-metiers-08.webp
   path: /images/banque/expert-comptable-et-metiers-08.webp

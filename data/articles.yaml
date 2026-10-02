@@ -59,3 +59,27 @@
   category_slug_en: accountants-and-professions
   author: nadia-benali
   featured: false
+- slug_fr: meilleur-accompagnement-creation-entreprise
+  slug_en: best-business-creation-support-france
+  category_slug_fr: creer-son-entreprise
+  category_slug_en: starting-a-business
+  author: camille-renaud
+  featured: false
+- slug_fr: meilleur-accompagnement-facture-electronique
+  slug_en: best-e-invoicing-support-france
+  category_slug_fr: comptabilite
+  category_slug_en: accounting
+  author: julien-marchal
+  featured: false
+- slug_fr: meilleur-cabinet-comptable
+  slug_en: best-accounting-firm-france
+  category_slug_fr: expert-comptable-et-metiers
+  category_slug_en: accountants-and-professions
+  author: nadia-benali
+  featured: false
+- slug_fr: meilleur-prestataire-paie-pme
+  slug_en: best-payroll-provider-sme-france
+  category_slug_fr: paie-et-social
+  category_slug_en: payroll-and-social-charges
+  author: nadia-benali
+  featured: false
