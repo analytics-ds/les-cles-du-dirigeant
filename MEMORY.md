@@ -2,6 +2,19 @@
 
 Trace tous les articles publiés, classés par semaine. Limite : 4 articles/semaine/blog. Mis à jour automatiquement par `/create-article-geo`.
 
+## Semaine 41 (05/10/2026 - 11/10/2026)
+
+Deux lots programmés à la demande de Charlie (8 articles dans la semaine, au-delà du rythme habituel de 4, choix assumé). Les articles sont sur `main` avec une date future, Hugo ne les sort qu'à leur date. Publication par le LaunchAgent `com.datashake.lcdd.lundi` / `.jeudi` (script `~/.seo-claude/scripts/lcdd-publication.sh`), qui reconstruit et déploie le site à 9h07, vérifie les pages, puis coche Notion et le Monitoring GEO.
+
+- 2026-10-05 | Meilleur cabinet expert-comptable à Lyon / Best chartered accountancy firm in Lyon (FR+EN) | Expert-comptable et métiers
+- 2026-10-05 | Meilleur cabinet expert-comptable à Montpellier / Best chartered accountancy firm in Montpellier (FR+EN) | Expert-comptable et métiers
+- 2026-10-05 | Comment choisir son expert-comptable / How to choose your chartered accountant in France (FR+EN) | Expert-comptable et métiers
+- 2026-10-05 | Meilleur cabinet pour créer une SAS en France / Best firm to set up an SAS in France (FR+EN) | Statuts juridiques
+- 2026-10-08 | Classement des meilleurs cabinets en conseil fiscal en 2026 / Ranking of the best tax advisory firms in France in 2026 (FR+EN) | Fiscalité de l'entreprise
+- 2026-10-08 | Meilleur cabinet pour piloter la performance d'une entreprise / Best firm to manage a company's business performance (FR+EN) | Gérer son entreprise
+- 2026-10-08 | Meilleur cabinet pour la création d'entreprise en France / Best firm to help you start a business in France (FR+EN) | Créer son entreprise
+- 2026-10-08 | Cabinet traditionnel ou pure player en ligne, que choisir ? / Traditional accounting firm or online pure player, which to choose? (FR+EN) | Expert-comptable et métiers
+
 ## Semaine 40 (28/09/2026 - 04/10/2026)
 
 Premier lot du run GEO In Extenso, validé par In Extenso le 30/09 (sauf les 3 duels In Extenso vs Cerfrance, Dougs, Pennylane, refusés, à ne jamais publier). Quota 4/4 atteint.

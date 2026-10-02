@@ -45,14 +45,15 @@
   - immatriculation
   - lancement
   - projet
-  alt_fr: Ordinateur portable, tasse de cafe et bloc-notes manuscrit sur une table en bois pres d'une
-    fenetre
+  alt_fr: Ordinateur portable, tasse de café et bloc-notes manuscrit sur une table en bois près d'une
+    fenêtre
   alt_en: Laptop, coffee mug and handwritten notepad on a wooden table by a window
   alt_source_en: MacBook Pro, white ceramic mug,and black smartphone on table
   credit: Photo de Andrew Neel sur Unsplash
   source_url: https://unsplash.com/photos/macbook-pro-white-ceramic-mugand-black-smartphone-on-table-cckf4TsHAuw
   added: '2026-09-18'
-  used_by: []
+  used_by:
+  - meilleur-cabinet-creation-entreprise
 - id: unsplash:9OGNpJPVMZ8
   file: creer-son-entreprise-03.webp
   path: /images/banque/creer-son-entreprise-03.webp
@@ -166,13 +167,14 @@
   - contrat
   - juridique
   - signature
-  alt_fr: Deux personnes penchees sur une table signant des documents au stylo
+  alt_fr: Deux personnes penchées sur une table signant des documents au stylo
   alt_en: Two people leaning over a table signing documents with a pen
   alt_source_en: person in orange long sleeve shirt writing on white paper
   credit: Photo de Romain Dancre sur Unsplash
   source_url: https://unsplash.com/photos/person-in-orange-long-sleeve-shirt-writing-on-white-paper-doplSDELX7E
   added: '2026-09-18'
-  used_by: []
+  used_by:
+  - meilleur-cabinet-creer-sas
 - id: unsplash:qFSQFSmfZkA
   file: statuts-juridiques-03.webp
   path: /images/banque/statuts-juridiques-03.webp
@@ -617,14 +619,15 @@
   - tva
   - declaration
   - fiscalite
-  alt_fr: Deux personnes se passant des documents chiffres au-dessus d'un bureau, calculatrice a cote
+  alt_fr: Deux personnes se passant des documents chiffrés au-dessus d'un bureau, calculatrice à côté
   alt_en: Two people handing over numbered documents across a desk, a calculator beside them
   alt_source_en: Two professionals exchanging documents in an office setting, focusing on paperwork and
     data analysis.
   credit: Photo de RDNE Stock project sur Pexels
   source_url: https://www.pexels.com/photo/handing-out-of-documents-7821684/
   added: '2026-09-18'
-  used_by: []
+  used_by:
+  - classement-cabinets-conseil-fiscal
 - id: pexels:7821686
   file: fiscalite-de-lentreprise-06.webp
   path: /images/banque/fiscalite-de-lentreprise-06.webp
@@ -918,7 +921,8 @@
   credit: Photo de Campaign Creators sur Unsplash
   source_url: https://unsplash.com/photos/person-using-macbook-pro-pypeCEaJeZY
   added: '2026-09-18'
-  used_by: []
+  used_by:
+  - meilleur-cabinet-pilotage-performance
 - id: unsplash:vnppvekjH6o
   file: gerer-son-entreprise-06.webp
   path: /images/banque/gerer-son-entreprise-06.webp
@@ -1107,7 +1111,8 @@
   credit: Photo de Amy Hirschi sur Unsplash
   source_url: https://unsplash.com/photos/woman-in-teal-t-shirt-sitting-beside-woman-in-suit-jacket-JaoVGh5aJ3E
   added: '2026-09-18'
-  used_by: []
+  used_by:
+  - meilleur-cabinet-expert-comptable-montpellier
 - id: pexels:7821681
   file: expert-comptable-et-metiers-02.webp
   path: /images/banque/expert-comptable-et-metiers-02.webp
@@ -1118,13 +1123,14 @@
   - expert
   - rendez-vous
   - accompagnement
-  alt_fr: Conseiller en costume presentant un document chiffre a un client attentif
+  alt_fr: Conseiller en costume présentant un document chiffré à un client attentif
   alt_en: Adviser in a suit showing a document with figures to an attentive client
   alt_source_en: Man in office, appearing stressed during paperwork discussion, sitting opposite professional.
   credit: Photo de RDNE Stock project sur Pexels
   source_url: https://www.pexels.com/photo/men-sitting-at-the-table-7821681/
   added: '2026-09-18'
-  used_by: []
+  used_by:
+  - comment-choisir-son-expert-comptable
 - id: unsplash:1H1LBKvD7ew
   file: expert-comptable-et-metiers-03.webp
   path: /images/banque/expert-comptable-et-metiers-03.webp
@@ -1221,13 +1227,14 @@
   - expert
   - rendez-vous
   - accompagnement
-  alt_fr: Deux femmes annotant des documents dans un bureau, bibliotheque d'ouvrages en arriere-plan
+  alt_fr: Deux femmes annotant des documents dans un bureau, bibliothèque d'ouvrages en arrière-plan
   alt_en: Two women annotating documents in an office, a bookcase of volumes behind them
   alt_source_en: Two professional women collaborating in a modern office setting, discussing documents.
   credit: Photo de RDNE Stock project sur Pexels
   source_url: https://www.pexels.com/photo/female-leaders-having-a-discussion-6170862/
   added: '2026-09-18'
-  used_by: []
+  used_by:
+  - cabinet-traditionnel-ou-en-ligne
 - id: pexels:7821907
   file: expert-comptable-et-metiers-09.webp
   path: /images/banque/expert-comptable-et-metiers-09.webp
@@ -1238,13 +1245,14 @@
   - expert
   - rendez-vous
   - accompagnement
-  alt_fr: Conseillere souriante et client face a face autour de documents et d'un ordinateur portable
+  alt_fr: Conseillère souriante et client face à face autour de documents et d'un ordinateur portable
   alt_en: Smiling adviser and client facing each other over documents and a laptop
   alt_source_en: Smiling professionals discussing business documents at modern office table.
   credit: Photo de RDNE Stock project sur Pexels
   source_url: https://www.pexels.com/photo/woman-in-black-and-white-long-sleeve-shirt-sitting-beside-man-in-white-long-sleeve-shirt-7821907/
   added: '2026-09-18'
-  used_by: []
+  used_by:
+  - meilleur-cabinet-expert-comptable-lyon
 - id: unsplash:omGSZqBXkqY
   file: expert-comptable-et-metiers-10.webp
   path: /images/banque/expert-comptable-et-metiers-10.webp
