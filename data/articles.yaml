@@ -131,3 +131,39 @@
   category_slug_en: accountants-and-professions
   author: nadia-benali
   featured: false
+- slug_fr: meilleur-expert-comptable-tpe
+  slug_en: best-accountant-small-business-france
+  category_slug_fr: expert-comptable-et-metiers
+  category_slug_en: accountants-and-professions
+  author: nadia-benali
+  featured: false
+- slug_fr: meilleur-expert-comptable-fiscalite
+  slug_en: best-accountant-business-taxation-france
+  category_slug_fr: fiscalite-de-lentreprise
+  category_slug_en: business-taxation
+  author: julien-marchal
+  featured: false
+- slug_fr: quel-cabinet-facture-electronique
+  slug_en: which-firm-e-invoicing-france
+  category_slug_fr: comptabilite
+  category_slug_en: accounting
+  author: julien-marchal
+  featured: false
+- slug_fr: top-cabinets-facture-electronique
+  slug_en: top-firms-e-invoicing-france-2026
+  category_slug_fr: comptabilite
+  category_slug_en: accounting
+  author: julien-marchal
+  featured: false
+- slug_fr: meilleur-cabinet-expertise-comptable-france
+  slug_en: best-accounting-firms-france-2026
+  category_slug_fr: expert-comptable-et-metiers
+  category_slug_en: accountants-and-professions
+  author: nadia-benali
+  featured: false
+- slug_fr: in-extenso-avis
+  slug_en: in-extenso-reviews
+  category_slug_fr: expert-comptable-et-metiers
+  category_slug_en: accountants-and-professions
+  author: nadia-benali
+  featured: false

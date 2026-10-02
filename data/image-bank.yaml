@@ -429,13 +429,14 @@
   - facture
   - bilan
   - calcul
-  alt_fr: Mains pianotant sur une calculatrice rose posee sur une pile de tickets de caisse et de factures
+  alt_fr: Mains pianotant sur une calculatrice rose posée sur une pile de tickets de caisse et de factures
   alt_en: Hands using a pink calculator on a pile of receipts and invoices
   alt_source_en: Hands using a pink calculator to manage expenses amidst various receipts and documents.
   credit: Photo de kaboompics.com sur Pexels
   source_url: https://www.pexels.com/photo/a-close-up-shot-of-a-person-using-a-calculator-7680696/
   added: '2026-09-18'
-  used_by: []
+  used_by:
+  - quel-cabinet-facture-electronique
 - id: unsplash:0rHxkbcvQAE
   file: comptabilite-02.webp
   path: /images/banque/comptabilite-02.webp
@@ -498,13 +499,14 @@
   - facture
   - bilan
   - calcul
-  alt_fr: Trieur a soufflets bleu pastel rempli de documents classes, pose sur un bureau en bois
+  alt_fr: Trieur à soufflets bleu pastel rempli de documents classés, posé sur un bureau en bois
   alt_en: Pastel blue accordion file full of sorted documents on a wooden desk
   alt_source_en: From above of briefcase for documents with papers placed on wooden table in daytime
   credit: Photo de Anete Lusina sur Pexels
   source_url: https://www.pexels.com/photo/briefcase-for-documents-placed-on-table-4792286/
   added: '2026-09-18'
-  used_by: []
+  used_by:
+  - top-cabinets-facture-electronique
 - id: pexels:4792287
   file: comptabilite-06.webp
   path: /images/banque/comptabilite-06.webp
@@ -584,14 +586,15 @@
   - tva
   - declaration
   - fiscalite
-  alt_fr: Personne prenant des notes dans un carnet, entouree de formulaires, de lunettes et d'une calculatrice
+  alt_fr: Personne prenant des notes dans un carnet, entourée de formulaires, de lunettes et d'une calculatrice
   alt_en: Person taking notes in a notebook surrounded by forms, glasses and a calculator
   alt_source_en: Close-up of a person writing in a notebook with documents and a calculator, managing
     finances.
   credit: Photo de Leeloo The First sur Pexels
   source_url: https://www.pexels.com/photo/person-writing-on-white-paper-7247407/
   added: '2026-09-18'
-  used_by: []
+  used_by:
+  - meilleur-expert-comptable-fiscalite
 - id: pexels:27358606
   file: fiscalite-de-lentreprise-04.webp
   path: /images/banque/fiscalite-de-lentreprise-04.webp
@@ -1147,7 +1150,8 @@
   credit: Photo de Carrie Allen www.carrieallen.com sur Unsplash
   source_url: https://unsplash.com/photos/a-man-and-a-woman-sitting-at-a-white-table-1H1LBKvD7ew
   added: '2026-09-18'
-  used_by: []
+  used_by:
+  - in-extenso-avis
 - id: unsplash:iPheGw7_UaI
   file: expert-comptable-et-metiers-04.webp
   path: /images/banque/expert-comptable-et-metiers-04.webp
@@ -1164,7 +1168,8 @@
   credit: Photo de Vitaly Gariev sur Unsplash
   source_url: https://unsplash.com/photos/business-people-signing-a-contract-at-a-table-iPheGw7_UaI
   added: '2026-09-18'
-  used_by: []
+  used_by:
+  - meilleur-expert-comptable-tpe
 - id: unsplash:eGI0aGwuE-A
   file: expert-comptable-et-metiers-05.webp
   path: /images/banque/expert-comptable-et-metiers-05.webp
@@ -1263,10 +1268,11 @@
   - expert
   - rendez-vous
   - accompagnement
-  alt_fr: Trois professionnels en reunion autour d'une table basse dans un hall vitre
+  alt_fr: Trois professionnels en réunion autour d'une table basse dans un hall vitré
   alt_en: Three professionals meeting around a low table in a glass-walled lobby
   alt_source_en: a group of people sitting around a table
   credit: Photo de Vitaly Gariev sur Unsplash
   source_url: https://unsplash.com/photos/a-group-of-people-sitting-around-a-table-omGSZqBXkqY
   added: '2026-09-18'
-  used_by: []
+  used_by:
+  - meilleur-cabinet-expertise-comptable-france

@@ -2,6 +2,17 @@
 
 Trace tous les articles publiés, classés par semaine. Limite : 4 articles/semaine/blog. Mis à jour automatiquement par `/create-article-geo`.
 
+## Semaine 42 (12/10/2026 - 18/10/2026)
+
+Derniers lots du run GEO In Extenso, programmés comme la semaine 41 (date future + LaunchAgents `com.datashake.lcdd.lundi2` / `.jeudi2`). Les 2 articles facture électronique sont sur 2 jours différents.
+
+- 2026-10-12 | Meilleur expert-comptable pour une TPE en France / Best chartered accountant for a very small business in France (FR+EN) | Expert-comptable et métiers
+- 2026-10-12 | Meilleur expert-comptable pour la fiscalité en France / Best chartered accountant for business taxation in France (FR+EN) | Fiscalité de l'entreprise
+- 2026-10-12 | Quel cabinet choisir pour passer à la facture électronique ? / Which firm should you choose to switch to e-invoicing? (FR+EN) | Comptabilité
+- 2026-10-15 | Top 2026 des cabinets pour la facture électronique / Top 2026 firms for e-invoicing in France (FR+EN) | Comptabilité
+- 2026-10-15 | Meilleur cabinet d'expertise comptable en France en 2026 / Best chartered accountancy firms in France in 2026 (FR+EN) | Expert-comptable et métiers
+- 2026-10-15 | In Extenso avis, ce qu'il faut savoir sur le groupe / In Extenso reviews, what to know about the group (FR+EN) | Expert-comptable et métiers
+
 ## Semaine 41 (05/10/2026 - 11/10/2026)
 
 Deux lots programmés à la demande de Charlie (8 articles dans la semaine, au-delà du rythme habituel de 4, choix assumé). Les articles sont sur `main` avec une date future, Hugo ne les sort qu'à leur date. Publication par le LaunchAgent `com.datashake.lcdd.lundi` / `.jeudi` (script `~/.seo-claude/scripts/lcdd-publication.sh`), qui reconstruit et déploie le site à 9h07, vérifie les pages, puis coche Notion et le Monitoring GEO.
