@@ -179,14 +179,14 @@
         {
             "@type": "ListItem",
             "position": 1,
-            "name": "Accueil",
-            "item": "{{ .Site.BaseURL }}"
+            "name": "{{ if eq $pageLang "en" }}Home{{ else }}Accueil{{ end }}",
+            "item": "{{ .Site.BaseURL }}{{ if eq $pageLang "en" }}en/{{ end }}"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blog",
-            "item": "{{ "blog/" | absURL }}"
+            "item": "{{ .Site.BaseURL }}{{ if eq $pageLang "en" }}en/{{ end }}blog/"
         }{{ $breadcrumbCatURL := partial "category-url.html" (dict "page" . "lang" $pageLang) }}{{ if $breadcrumbCatURL }},
         {
             "@type": "ListItem",
